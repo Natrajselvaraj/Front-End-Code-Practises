@@ -1,0 +1,120 @@
+body{
+   font-family:Roboto;
+}
+.div-1{
+    margin-left:400px;
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png") ;
+   height:600px;
+   width:500px;
+    
+}
+.child-1{
+    background-color: #323f4b;
+    height:60px;
+    width:100%;
+    }
+.child-2{
+    color:white;
+    background-color: #47a3f3;
+    margin-left:20px;
+    text-align: right;
+    margin-top: 50px;
+    margin-right: 20px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-size-adjust:10px;
+    padding:1px;
+}
+.child-3{
+    color:white;
+    margin-top: 10px;
+    background-color: #52606d;
+    margin-left:20px;
+    text-align: left;
+    margin-right: 20px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    text-size-adjust:10px;
+    padding:1px;
+}
+.child-4{
+    color:white;
+   margin-top: 10px; 
+    background-color: #47a3f3;
+    margin-left:20px;
+    text-align: right;
+    margin-right: 20px;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-size-adjust:10px;
+    padding:1px;
+}
+.child-5{
+    color:white;
+    margin-top: 10px;
+    background-color: #52606d;
+    margin-left:20px;
+    text-align: left;
+    margin-right: 20px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    text-size-adjust:10px;
+    padding:1px;
+}
+.child-6{
+    color:white;
+    margin-top: 10px; 
+     background-color: #47a3f3;
+     margin-left:20px;
+     text-align: right;
+     margin-right: 20px;
+     border-bottom-left-radius: 7px;
+     border-top-left-radius: 7px;
+     border-top-right-radius: 7px;
+     text-size-adjust:10px;
+     padding:1px;
+ }
+ .child-7{
+    color:white;
+    margin-top: 10px;
+    background-color: #52606d;
+    margin-left:20px;
+    text-align: left;
+    margin-right: 20px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    text-size-adjust:10px;
+    padding:1px;
+}
+
+.child-8{
+    color:white;
+    margin-top: 10px; 
+     background-color: #47a3f3;
+     margin-left:20px;
+     text-align: right;
+     margin-right: 20px;
+     border-bottom-left-radius: 7px;
+     border-top-left-radius: 7px;
+     border-top-right-radius: 7px;
+     text-size-adjust:10px;
+     padding:1px;
+ }
+ .para-1{
+    margin-right: 15px;
+ }
+ 
+ .para-2{
+    margin-left: 15px;
+ }
+
+    h1{
+        text-align: center;
+        padding:10px;
+        color:white;
+    }

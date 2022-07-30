@@ -1,0 +1,38 @@
+.bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png") ;
+    background-repeat: no-repeat;
+    height:100%;
+    width:300px;
+    margin-left:450px;
+    font-family:Calibri;
+    
+}
+.head{
+    color: white;
+    text-align: center;
+
+}
+.head-1{
+color:white;
+}
+.para-1{
+color:white;
+text-align: center;
+}
+.para-2{
+color:white;
+}
+.button-start{
+ background-color: orange;
+ color:white;
+ margin-left: 110px;
+ border-style:1px;
+ padding:7px;
+ width:60px;
+}
+.link{
+    color:white;
+    text-decoration: underline;
+    margin-left: 75px;
+    font-size: small;
+}

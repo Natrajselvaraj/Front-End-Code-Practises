@@ -1,0 +1,39 @@
+.bg-container{
+    height:130vh;
+    width:450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: rgb(253, 173, 75);
+}
+.img-1{
+    width: 30vw;
+    height:200px;
+    margin:17px;
+}
+button{
+    background-color: white;
+    color:rgb(253, 173, 75);
+    margin-right:25px;
+    border-radius:7px;
+    padding:5px;
+    border:none;
+    font-size: small;
+}
+h2{
+    margin-right: 120px;
+}
+p{
+    margin:20px;
+}
+h5{
+    margin-left:15px;
+}
+.img-2,.img-3,.img-4,.img-5{
+    margin-left: 10px;
+}
+.img-5{
+    height:140px;
+    width:90px;
+    border-radius: 15px;
+}

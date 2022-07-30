@@ -1,0 +1,35 @@
+.bg-container{
+    background-color: rgb(241, 233, 233);
+    margin-left: auto;
+    margin-right: auto;
+    height:150vh;
+    width:400px;
+
+}
+.img-11{
+    height:50vh;
+    width:400px;
+}
+p{
+    margin:15px;
+}
+h5,h5{
+    margin: 15px;
+}
+.img-1,.img-2,.img-3{
+    margin-left: 20px;
+}
+.img-1{
+    height:100px;
+    width:100px;
+    border-radius: 7px;
+
+}
+.video2,.video3,.video1{
+    height:100px;
+    width:100px;
+}
+.max{
+    margin-left: 20px;
+    border-radius: 10px;
+}
